@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.umox.app"
+        applicationId = "com.omotive.app"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
